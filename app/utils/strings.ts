@@ -28,7 +28,7 @@ export const STRINGS = {
   churchLocation: "Biserica Sfântul Antonie",
   churchLocation2: "Strada Jean Steriadi 19A, București",
   party: "PETRECEREA",
-  partyLabel: "Sâmbătă, 23 august 2025, 19:30",
+  partyLabel: "Sâmbătă, 23 august 2025, 19:00",
   partyLocation: "Lagoo Snagov, Pavilion Sole",
   partyLocation2: `Strada Plopilor, nr. 1, Comuna Snagov`,
   menuLabel: "Tip meniu",
